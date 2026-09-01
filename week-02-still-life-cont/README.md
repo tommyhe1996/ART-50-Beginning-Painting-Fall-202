@@ -17,7 +17,7 @@ The main focus is:
 
 The Still Life Painting is due September 6, 2026.
 
----
+***
 ART-50-Beginning-Painting-Fall-2026/
 │
 ├── README.md
@@ -35,4 +35,4 @@ ART-50-Beginning-Painting-Fall-2026/
     └── final-still-life.jpg
 
 
----
+***
